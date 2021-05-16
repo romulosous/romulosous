@@ -9,7 +9,7 @@
 ### What I'm working on 👨‍💻
 
 🔭 &nbsp; I’m currently working on [ClassSchedule](https://class-schudele.web.app/) <br>
-🌱 &nbsp; I’m currently learning English, Vue, Vuex, Vue Router...<br>
+🌱 &nbsp; I’m currently learning English, Clean Code, Vue, Vuex, Vue Router...<br>
 
 ### 📫 How to reach me? 🌎
 
